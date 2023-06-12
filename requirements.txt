@@ -1,0 +1,7 @@
+pymysql
+shapely
+slack_sdk
+joblib
+apache-airflow-providers-apache-kafka
+confluent-kafka
+redshift_connector
